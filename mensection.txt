@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 hi........
+=======
+hi
+>>>>>>> b193a0cfb299e7edb735cd25e7230aac5d555ba2
